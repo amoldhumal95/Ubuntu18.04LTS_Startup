@@ -1,0 +1,45 @@
+Lets start ...
+
+OPEN TERMINAL -> Enter the following commande to get updated and some tools
+
+                  sudo bash
+
+                  sudo apt-get update --fix-missing && sudo apt-get upgrade --fix-missing
+ 
+Install Gnome-tweaks and Plank through Terminal:
+
+                  sudo apt-get install gnome-tweaks
+
+                  sudo apt-get install plank
+
+Now create following folders in /Home directory (iff not):
+                  .themes
+                  .icons
+
+Download themes , cursor and icon packs from following links:
+
+                  Themes Icons Cursor:
+                  Theme:
+                  https://www.youtube.com/redirect?event=video_description&q=https%3A%2F%2Fwww.gnome-look.org%2Fp%2F1241688%2F&redir_token=vu5UFE6sVA_9kP8-W2iBEALrPLZ8MTU3MDk3NDIxOEAxNTcwODg3ODE4&v=AHzGYG2XvMI
+
+                  Wallpaper:
+                  https://www.youtube.com/redirect?event=video_description&q=http%3A%2F%2Fosxdaily.com%2F2018%2F08%2F03%2F25-new-macos-mojave-wallpapers%2F&redir_token=vu5UFE6sVA_9kP8-W2iBEALrPLZ8MTU3MDk3NDIxOEAxNTcwODg3ODE4&v=AHzGYG2XvMI
+
+                  Cursor:
+                  https://www.youtube.com/redirect?event=video_description&q=http%3A%2F%2Fosxdaily.com%2F2018%2F08%2F03%2F25-new-macos-mojave-wallpapers%2F&redir_token=vu5UFE6sVA_9kP8-W2iBEALrPLZ8MTU3MDk3NDIxOEAxNTcwODg3ODE4&v=AHzGYG2XvMI
+
+                  https://www.youtube.com/redirect?event=video_description&q=https%3A%2F%2Fwww.gnome-look.org%2Fp%2F1148748%2F&redir_token=vu5UFE6sVA_9kP8-W2iBEALrPLZ8MTU3MDk3NDIxOEAxNTcwODg3ODE4&v=AHzGYG2XvMI
+
+                  
+                  Extract the files
+                  Move the themes files to '.themes' directory and
+                  move the icons and cursor to '.icons' directory
+                  Open Tweaks and change themes and icons.
+
+Plank:
+                  open terminal -> plank --preferences
+
+
+Remove Firefox:
+
+                  sudo apt-get purge firefox
